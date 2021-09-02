@@ -30,7 +30,7 @@ Além disto é bom ter um editor para trabalhar com o código como [Intellij](ht
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/felipe2121/Desafio-Desenvolvedor-Flutter.git>
+$ git clone https://github.com/felipe2121/Desafio-Desenvolvedor-Flutter.git
 
 # Acesse a pasta do projeto no Intellij
 
