@@ -5,15 +5,15 @@
 Suposições Realizadas
 =================
 <!--ts-->
-   * Aplicação tem dois tipos de visualização: Administrador e Técnico
-   * Administrador pode: 
-      * Incluir, excluir, atualizar e visualizar técnicos
-      * Incluir, excluir, atualizar e visualizar atividades
-      * Atribuir atividades aos técnicos
-   * Técnico pode:
-      *  Visualizar as atividades atribuídas para si
-      *  Registrar realização (ou não) das atividades atribuídas
-   * Dados manipulados dentro de uma mesma execução do aplicativo são coesos
+* Aplicação tem dois tipos de visualização: Administrador e Técnico
+* Administrador pode:
+    * Incluir, excluir, atualizar e visualizar técnicos
+    * Incluir, excluir, atualizar e visualizar atividades
+    * Atribuir atividades aos técnicos
+* Técnico pode:
+    *  Visualizar as atividades atribuídas para si
+    *  Registrar realização (ou não) das atividades atribuídas
+* Dados manipulados dentro de uma mesma execução do aplicativo são coesos
 <!--te-->
 
 <h4 align="center"> 
@@ -23,7 +23,7 @@ Suposições Realizadas
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Flutter](https://flutter.dev/docs/get-started/install). 
+[Git](https://git-scm.com), [Flutter](https://flutter.dev/docs/get-started/install).
 Além disto é bom ter um editor para trabalhar com o código como [Intellij](https://www.jetbrains.com/idea/download/#section=windows).
 
 ### Rodando o Projeto
