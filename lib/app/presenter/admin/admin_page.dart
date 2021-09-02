@@ -1,4 +1,5 @@
 import 'package:desafio_flutter/app/presenter/admin/task_list/task_list_page.dart';
+import 'package:desafio_flutter/app/presenter/admin/technician_list/technician_list_page.dart';
 import 'package:flutter/material.dart';
 
 class AdminPage extends StatelessWidget {
@@ -23,7 +24,9 @@ class AdminPage extends StatelessWidget {
             Center(
               child: TaskListPage(),
             ),
-            Center(),
+            Center(
+              child: TechnicianListPage(),
+            ),
           ],
         ),
       ),
