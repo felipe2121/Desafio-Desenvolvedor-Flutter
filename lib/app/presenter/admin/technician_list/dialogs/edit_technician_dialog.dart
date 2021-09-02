@@ -25,7 +25,9 @@ editTechnicianDialog(BuildContext context, TechnicianModel item) {
             Padding(
               padding: const EdgeInsets.all(16.0),
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  Modular.to.pushNamed('/attribute_task_list', arguments: item);
+                },
                 child: Text('Atribuir atividade'),
               ),
             ),
