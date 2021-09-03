@@ -29,14 +29,22 @@ Além disto é bom ter um editor para trabalhar com o código como [Intellij](ht
 ### Rodando o Projeto
 
 ```bash
-# Clone este repositório
+# Clone este repositório:
 $ git clone https://github.com/felipe2121/Desafio-Desenvolvedor-Flutter.git
 
-# Acesse a pasta do projeto no Intellij
+# Acesse a pasta do projeto no Intellij;
 
-# De um 'put get' (Intellij)
+# Instalar plugin Flutter no Intellij, depois reiniciar o Intellij;
 
-# Execute em um emulador ou web
+# Agora fazer o dowload do Dart SDK (canto superior direito);
+
+# Clicar em 'Open Dart settings', clicar no chebox 'Enable Dart Support for project', no campo 'Dart SDK path' selecionar o arquivo 'dart-sdk' dentro do arquivo flutter baixado anteriormente (flutter/bin/dart-sdk), depois clicar no chebox do 'Project', clicar em 'Apply' e 'OK';
+
+# Clicar em 'Get dependencies' (canto superior direito);
+
+# Selecione onde emular o aplicativo (no canto superior), recomendável selecionar um navegador se não tiver um emulador de celular intalado;
+
+# Execute clicando no botão play verde;
 ```
 
 ### 🛠 Tecnologias
