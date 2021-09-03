@@ -5,15 +5,17 @@
 Suposições Realizadas
 =================
 <!--ts-->
-* Aplicação tem dois tipos de visualização: Administrador e Técnico
+* Aplicação tem dois tipos de visualização: Administrador e Técnico.
 * Administrador pode:
-    * Incluir, excluir, atualizar e visualizar técnicos
-    * Incluir, excluir, atualizar e visualizar atividades
-    * Atribuir atividades aos técnicos
+    * Incluir, excluir, atualizar e visualizar técnicos.
+    * Incluir, excluir, atualizar e visualizar atividades.
+    * Atribuir atividades aos técnicos.
 * Técnico pode:
-    *  Visualizar as atividades atribuídas para si
-    *  Registrar realização (ou não) das atividades atribuídas
-* Dados manipulados dentro de uma mesma execução do aplicativo são coesos
+    *  Visualizar as atividades atribuídas para si.
+    *  Registrar realização (ou não) das atividades atribuídas.
+* Dados manipulados dentro de uma mesma execução do aplicativo são coesos.
+* Utilização da biblioteca Flutter Modular, para navegação entre telas na aplicação como injeção de dependência.
+* Utilização da biblioteca MobX, para manipular dados reativos na aplicação.
 <!--te-->
 
 <h4 align="center"> 
